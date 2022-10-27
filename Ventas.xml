@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listaventas SYSTEM "Ventas.dtd">
+
+<listaventas>
+    <venta>
+        <importe>1000</importe>
+        <comprador>Eider Betancur</comprador>
+        <vendedor>Patricia bermudez</vendedor>
+        <codigofactura>9846541</codigofactura>
+    </venta>
+</listaventas>
